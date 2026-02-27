@@ -9,6 +9,8 @@ git init
 Add and commit
 
 git add .
+
+<Before commiting get in the habit of using git status, to make sure only the files you are expecting to commit are staged.>
 git commit -m "Initial commit"
 
 Create Github repo
